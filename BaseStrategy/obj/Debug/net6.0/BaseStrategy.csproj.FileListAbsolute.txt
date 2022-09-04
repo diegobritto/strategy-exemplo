@@ -1,0 +1,15 @@
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\bin\Debug\net6.0\BaseStrategy.exe
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\bin\Debug\net6.0\BaseStrategy.deps.json
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\bin\Debug\net6.0\BaseStrategy.runtimeconfig.json
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\bin\Debug\net6.0\BaseStrategy.dll
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\bin\Debug\net6.0\BaseStrategy.pdb
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\BaseStrategy.csproj.AssemblyReference.cache
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\BaseStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\BaseStrategy.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\BaseStrategy.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\BaseStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\BaseStrategy.dll
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\refint\BaseStrategy.dll
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\BaseStrategy.pdb
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\BaseStrategy.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\BaseStrategy\BaseStrategy\obj\Debug\net6.0\ref\BaseStrategy.dll
